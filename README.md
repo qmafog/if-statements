@@ -1,4 +1,4 @@
-﻿# If Statements
+# If Statements
 
 Beginner level task for practicing conditionals and if statements.
 
@@ -11,7 +11,7 @@ The task requires .NET 6 SDK installed.
 
 The task has fourteen sub-tasks. Each sub-task is a small coding exercise.
 
-Basic understanding of [flowchart diagrams](https://en.wikipedia.org/wiki/Flowchart) (или см. русскоязычную [статью Блок-схема](https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D0%B0)) is required to successfully complete the task. If you are not familiar with flowchart diagrams, read the Wikipedia article first.
+Basic understanding of [flowchart diagrams](https://en.wikipedia.org/wiki/Flowchart) is required to successfully complete the task. If you are not familiar with flowchart diagrams, read the Wikipedia article first.
 
 In this task use the only *if* keyword for selection statements. Using *else* or *switch* keywords is not required.
 
