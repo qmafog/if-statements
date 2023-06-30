@@ -4,8 +4,14 @@
     {
         public static int DoSomething(int i)
         {
-            // TODO Implement the method.
-            throw new NotImplementedException();
+            if (i < 0)
+            {
+                return 0;
+            }
+            else
+            {
+                return i;
+            }
         }
     }
 }
